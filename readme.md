@@ -20,10 +20,13 @@ https://github.github.com/gfm/#disallowed-raw-html-extension-
 <plaintext>
 ```
 
-![tttt][image_ref_4qmio2ij]![](test1.png)
+![tttt][image_ref_4qmio2ij]
+
+![](test1.png)
 
 は 許可されない。
 
+下記のような画像埋め込みは github では許可されない。
 
 
 
